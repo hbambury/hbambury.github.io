@@ -17,9 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: house-chimney, title: Home}
-  - {file: "education.html", icon : graduation-cap, title: Education}
-  - {file: "publications.html", icon : feather, title: Publications}
-  - {file: "talks.html", icon : microphone, title: Talks}
+  - {file: "education.md", icon : graduation-cap, title: Education}
+  - {file: "publications.md", icon : feather, title: Publications}
+  - {file: "talks.md", icon : microphone, title: Talks}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Contact, icon: envelope, url: "https://www.di.ens.fr/contact?user=253"}
