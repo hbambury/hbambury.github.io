@@ -3,6 +3,8 @@ layout: default
 title: "Education"
 ---
 
+## Education
+
 * **PhD in Cryptology (2022 - )** - *Ecole Normale Supérieure*
     * Supervised by [Phong Nguyen](https://www.di.ens.fr/~pnguyen/).
 * **MSc Mathematics and Foundations of Computer Science (2021 - 2022)** - *University of Oxford*
