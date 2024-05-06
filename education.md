@@ -5,7 +5,7 @@ title: "Education"
 
 ## Education
 
-* **PhD in Cryptology (2022 - )** - *Ecole Normale Supérieure*
+* **PhD in Cryptology (2022 - )** - *Ecole normale supérieure*
     * Supervised by [Phong Nguyen](https://www.di.ens.fr/~pnguyen/).
 * **MSc Mathematics and Foundations of Computer Science (2021 - 2022)** - *University of Oxford*
     * My Master's thesis was written under supervision of Christophe Petit: see my [manuscript](HBmfocs.pdf) on S-unit attacks.
