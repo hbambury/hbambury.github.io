@@ -5,6 +5,10 @@ title: "Talks"
 
 ## Talks
 
+- *How Not to Instantiate the (Module)-Quadratic Form Equivalence Problem* - **Workshop on Algebraic Lattices in Cryptgraphy** - June 2025 - [slides](CHARM_HB.pdf)
+- *Polytopes in the Fiat-Shamir with Aborts Paradigm* - **GREYC Séminaire Cryptologie et Sécurité** - June 2025 - [slides](Polytopes_Caen.pdf)
+- *Cryptanalysis of an Efficient Signature Based on Isotropic Quadratic Forms* - **PQCrypto'25** - April 2025
+- *Cryptanalysis of an Efficient Signature Based on Isotropic Quadratic Forms* - **Journées Codage et Cryptographie** - April 2025
 - *Improved Provable Reduction of NTRU and Hypercubic Lattices* - **Creach Labs** - October 2024 - [slides](Rennes_slides.pdf)
 - *Provably Reducing Near-Hypercubic Lattices* - **Séminaire C2** - October 2024 [slides](SC2_slides.pdf)
 - *Special Lattices in Cryptology* - **Combinatorial Geometry and Number Theory** - August 2024 - [slides](EPFL_lattices.pdf)
