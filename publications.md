@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Publications
 
-- [Cryptanalysis of an Efficient Signature Based on Isotropic Quadratic Forms](https//eprint.iacr.org/2025/133) **PQCrypto'25** -with P. Nguyen 
+- [Cryptanalysis of an Efficient Signature Based on Isotropic Quadratic Forms](https://eprint.iacr.org/2025/133) **PQCrypto'25** -with P. Nguyen 
 - [Polytopes in the Fiat-Shamir with Aborts Paradigm](https://eprint.iacr.org/2024/411) **CRYPTO'24** -with H. Beguinet, T. Ricosset and E. Sageloli
 - [Improved Provable Reduction of NTRU and Hypercubic Lattices](https://eprint.iacr.org/2024/601) **PQCrypto'24** -with P. Nguyen
 - [Ordinary isogeny graphs over \F_p: the inverse volcano problem](https://arxiv.org/abs/2210.01086) **to appear in Annali della Scuola Normale di Pisa** -with F. Campagna and F. Pazuki
